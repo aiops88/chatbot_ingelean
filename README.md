@@ -1,4 +1,4 @@
-# 📚 DOCUMENTACIÓN TÉCNICA - CHATBOT INGE LEAN S.A.S.
+# 📚 DOCUMENTACIÓN TÉCNICA - CHATBOT INGELEAN S.A.S.
 
 <div align="center">
   <img src="https://ingelean.com/wp-content/uploads/2022/12/LOGO-INGE-LEAN.png" alt="Logo INGE LEAN S.A.S." width="300px">
